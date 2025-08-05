@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/vnasyrov/vnasyrov/blob/main/assets/giphy.gif)
 
-![Profile_views](https://komarev.com/ghpvc/?username=vnasyrov&color=orange&style=for-the-badge)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vnasyrov&show_icons=true&theme=dracula)
 
 ---
 
