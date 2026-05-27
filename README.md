@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/vnasyrov/vnasyrov/blob/main/assets/giphy.gif)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vnasyrov&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats-1-fawn-theta.vercel.app/api?username=vnasyrov&show_icons=true&theme=dracula)
 
 ---
 
