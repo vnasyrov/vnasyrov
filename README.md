@@ -31,4 +31,8 @@ My motto: If learning is light and ignorance is darkness, then my days are brigh
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Hermione](https://img.shields.io/badge/Hermione-800080?style=for-the-badge&logoColor=white)
+![Alice AI](https://img.shields.io/badge/Alice_AI-8C52FF?style=for-the-badge&logo=yandex&logoColor=white)
+![Arcanum](https://img.shields.io/badge/Arcanum-B39DDB?style=for-the-badge&logoColor=white)
 
