@@ -1,6 +1,6 @@
 ### Debugging Detective on Duty! 🕵️‍♂️🚨
 
-<img src="https://github.com/vnasyrov/vnasyrov/blob/main/assets/giphy.gif" width="400"/>
+<img src="https://github.com/vnasyrov/vnasyrov/blob/main/assets/giphy.gif" width="450"/>
 
 ![GitHub stats](https://github-readme-stats-1-fawn-theta.vercel.app/api?username=vnasyrov&show_icons=true&theme=dracula)
 
