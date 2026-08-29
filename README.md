@@ -11,7 +11,6 @@
 - In testing since 2021; 💻  
 - Created and maintained 500+ test cases; 😻  
 - Love watching TV shows and listening to podcasts; 🎥  
-- Read 25 books in 2025. :trollface: 
 
 My motto: If learning is light and ignorance is darkness, then my days are bright and productive! 💡🌞
 
